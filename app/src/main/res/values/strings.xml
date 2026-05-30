@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarTracker</string>
+    <string name="tracking_channel_name">Theo dõi vị trí xe</string>
+    <string name="tracking_channel_description">Thông báo khi CarTracker đang ghi hành trình</string>
+    <string name="resume_channel_name">Khởi động lại theo dõi</string>
+    <string name="resume_channel_description">Yêu cầu tiếp tục ghi hành trình sau khi thiết bị khởi động</string>
+</resources>
